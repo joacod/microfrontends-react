@@ -2,7 +2,7 @@
 
 # Microfrontends - React
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/joacod/microfrontends-root-config/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/joacod/microfrontends-react/blob/main/LICENSE)
 
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
