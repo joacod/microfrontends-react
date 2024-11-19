@@ -48,7 +48,7 @@ export default function Navigation() {
         <span>
           <FcShop size={50} />
         </span>
-        <h1>Microfrontends Store</h1>
+        <h1>{showTech && 'Microfrontends '}Store</h1>
         {showTech && (
           <div className="tech">
             <img width={40} src={reactLogo} alt="React Logo" />
